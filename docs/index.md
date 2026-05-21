@@ -11,6 +11,15 @@ Developed and maintained by **Lumina Federation LLC**. Originated through the **
 
 New to LUMINA? Begin with the [Start Here](start-here.md) guide.
 
+## For schools and instructors
+
+LUMINA is designed as a shared choreography language.
+
+Schools and performance groups can adopt the notation standard without replacing their own choreography libraries, teaching culture, or curriculum structure.
+
+- Read the proposal: [For Schools and Instructors](for-schools.md)
+- Learn why notation matters: [Why Use Notation Instead of Video Alone?](why-notation-matters.md)
+
 ## What LUMINA includes
 
 | Part | Purpose |
@@ -24,5 +33,7 @@ New to LUMINA? Begin with the [Start Here](start-here.md) guide.
 ## Relationship to SaberCraft
 
 SaberCraft is the founding school and original community where LUMINA developed. SaberCraft remains the home for classes, community, events, and training culture.
+
+SaberCraft’s CM library represents one implementation of the LUMINA Standard, but the notation system is designed to support choreography from other schools and communities as well.
 
 Read more at [Learn with SaberCraft](learn.md).
