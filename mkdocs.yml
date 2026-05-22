@@ -66,6 +66,8 @@ nav:
   - For Schools: for-schools.md
   - Why Notation Matters: why-notation-matters.md
   - The Standard: standard.md
+  - Governance: versioning-and-governance.md
+  - Contributing: contributing-and-submissions.md
   - Notation:
       - Overview: notation/index.md
       - Targets: notation/targets.md
@@ -73,6 +75,7 @@ nav:
       - Parries: notation/parries.md
       - Legend: notation/legend.md
       - Examples: notation/examples.md
+      - Independent School Example: examples/academy-a-example.md
   - Core Movements:
       - Movement Library: core/index.md
       - Core Library:
@@ -85,5 +88,4 @@ nav:
   - Glossary: glossary.md
   - Downloads: downloads.md
   - Licensing: licensing.md
-  - Contribute: contribute.md
   - Learn with SaberCraft: learn.md
