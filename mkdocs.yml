@@ -69,6 +69,7 @@ nav:
   - Home: index.md
   - Learn:
       - Start Here / Beginner Path: start-here.md
+      - FAQ: faq.md
       - For Schools: for-schools.md
       - Why Notation Matters: why-notation-matters.md
       - Downloads: downloads.md
