@@ -22,6 +22,8 @@ A plain number is an attack.
 
 The number tells the reader which target line the movement is directed toward.
 
+For the full twelve-line attack reference, use the [Notation Legend](legend.md).
+
 ## Attack versus target
 
 The **target** is the line.
@@ -93,16 +95,9 @@ For beginner documentation, assume **no contact**.
 
 ## Attacks in CM-A
 
-CM-A uses six beginner attacks.
+CM-A uses six beginner attacks: `1`, `11`, `3`, `9`, `5`, and `7`.
 
-| Step | Lumen A attack |
-|---:|---|
-| 1 | `1` |
-| 2 | `11` |
-| 3 | `3` |
-| 4 | `9` |
-| 5 | `5` |
-| 6 | `7` |
+For the full six-step CM-A table, use the [CM-A reference page](../core/cm-a.md).
 
 Together, these teach a basic tour of the beginner target lines.
 
