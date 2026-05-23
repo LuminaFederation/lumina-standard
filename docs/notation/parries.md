@@ -24,6 +24,8 @@ The number tells the reader which target line is being received or answered.
 
 The `P` tells the reader that the action is a parry, not an attack.
 
+For the full twelve-line parry reference, use the [Notation Legend](legend.md).
+
 ## Parry versus block
 
 In casual teaching, people may say “block.”
@@ -92,16 +94,9 @@ The purpose of the parry is not to win a fight. The purpose is to complete the s
 
 ## Parries in CM-A
 
-CM-A uses six matching parries.
+CM-A uses six matching parries: `1P`, `11P`, `3P`, `9P`, `5P`, and `7P`.
 
-| Step | Lumen B parry |
-|---:|---|
-| 1 | `1P` |
-| 2 | `11P` |
-| 3 | `3P` |
-| 4 | `9P` |
-| 5 | `5P` |
-| 6 | `7P` |
+For the full six-step CM-A table, use the [CM-A reference page](../core/cm-a.md).
 
 Together, these teach the basic defensive response pattern for the six beginner target lines.
 
