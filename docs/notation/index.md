@@ -2,96 +2,45 @@
 
 LUMINA Notation is the written movement language of the LUMINA Standard.
 
-It gives Lumens a way to record, teach, rehearse, and share choreographed saber movement without relying only on memory, video, or verbal explanation.
+It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
 
 !!! note "Plain-English version"
-    LUMINA Notation works like a shared choreography map. It tells each Lumen what to do at each step of the sequence.
+    LUMINA Notation is a choreography map. It tells each Lumen what to do at each step of a sequence.
 
-## The purpose of the standard
+## What to learn first
 
-LUMINA is designed to function as a shared choreography language, not as a requirement to adopt a single school’s curriculum.
+Do not start by memorizing the full notation legend.
 
-A school, club, performance group, or independent instructor can keep their own:
+Start with the beginner core:
 
-- choreographies
-- teaching methods
-- ranking systems
-- lore or themes
-- performance styles
-- class structures
+1. six beginner target lines
+2. basic attacks
+3. matching parries
+4. the two-Lumen table format
+5. CM-A, the first core movement
 
-while still using LUMINA Notation to document and share movement.
+That is enough to read and practice your first LUMINA sequence.
 
-This means a choreography created by one school can still be read, reconstructed, practiced, or studied by another school that understands the notation.
+The full notation reference is available later in the [Notation Legend](legend.md).
 
-The notation standard is the language.
+## The beginner target set
 
-A choreography sequence is one expression of that language.
+The beginner path uses six target lines:
 
-## Why notation matters
+| Target | Beginner description |
+|---:|---|
+| `1` | High / upper center line |
+| `11` | High opposite line |
+| `3` | Side line |
+| `9` | Opposite side line |
+| `5` | Low line |
+| `7` | Opposite low line |
 
-Choreography is easy to lose when it only lives in someone’s body or in a video clip. Notation makes movement portable.
+These six lines are used in CM-A and give new Lumens a simple starting vocabulary.
 
-LUMINA Notation helps a group:
+For more detail, see [Targets](targets.md).
 
-- preserve choreographies over time
-- teach the same sequence consistently
-- compare variations clearly
-- practice without constant verbal instruction
-- build longer sequences from smaller movement blocks
-- share movements between schools, teams, or communities
-- archive choreography in a readable format
-
-The goal is not to replace physical teaching. The goal is to make physical teaching easier to preserve and repeat.
-
-## Standard versus choreography
-
-The LUMINA Standard defines:
-
-- notation syntax
-- target zones
-- attack notation
-- parry notation
-- timing conventions
-- table structure
-- shared terminology
-
-The standard does not require every group to use the same choreography library.
-
-For example:
-
-| Group | Their choreography library | Shared language |
-|---|---|---|
-| SaberCraft | CM-A through CM-X | LUMINA |
-| Academy A | AA-1 through AA-20 | LUMINA |
-| Temple Group | Temple Drills | LUMINA |
-
-In this model, choreography libraries remain independent while the notation language remains shared.
-
-## The basic structure
-
-Most beginner LUMINA sequences are written as a two-row table.
-
-One row belongs to each Lumen. Each column is one step in the choreography.
-
-| Player | Step 1 | Step 2 | Step 3 |
-|---|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 |
-| Lumen B | 1P | 11P | 3P |
-
-Read the table vertically, one column at a time.
-
-In Step 1:
-
-- Lumen A performs `1`
-- Lumen B performs `1P`
-
-In Step 2:
-
-- Lumen A performs `11`
-- Lumen B performs `11P`
-
-## The first rule: attack and parry
+## Attacks and parries
 
 The simplest LUMINA notation uses numbers and the letter `P`.
 
@@ -111,73 +60,73 @@ Examples:
 | `5` | `5P` |
 | `7` | `7P` |
 
-This creates a clear call-and-response pattern.
+This creates the first call-and-response pattern:
 
-A Lumen does not need to understand every advanced symbol to begin. Learn the attack/parry relationship first.
+> attack line → matching parry
 
-## Targets
+For more detail, see [Attacks](attacks.md) and [Parries](parries.md).
 
-The numbers in LUMINA refer to target lines.
+## The two-Lumen table
 
-The system uses a clock-face idea, where numbers describe the intended direction or line of the movement.
+Most beginner LUMINA sequences are written as a two-row table.
 
-The beginner target set is:
+One row belongs to each Lumen. Each column is one step in the choreography.
 
-| Target | Beginner description |
-|---:|---|
-| `1` | High / upper center line |
-| `11` | High opposite line |
-| `3` | Side line |
-| `9` | Opposite side line |
-| `5` | Low line |
-| `7` | Opposite low line |
+| Player | Step 1 | Step 2 | Step 3 |
+|---|---:|---:|---:|
+| Lumen A | 1 | 11 | 3 |
+| Lumen B | 1P | 11P | 3P |
 
-For the full target explanation, see [Targets](targets.md).
+Read the table vertically, one column at a time.
 
-## Reading a complete beginner sequence
+- Step 1: Lumen A attacks `1`; Lumen B parries `1P`.
+- Step 2: Lumen A attacks `11`; Lumen B parries `11P`.
+- Step 3: Lumen A attacks `3`; Lumen B parries `3P`.
 
-Here is **CM-A**, the first core movement sequence:
+The table keeps both performers connected to the same timing.
+
+## First complete example: CM-A
+
+CM-A is the first official core movement sequence.
 
 | Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
 |---|---:|---:|---:|---:|---:|---:|
 | Lumen A | 1 | 11 | 3 | 9 | 5 | 7 |
 | Lumen B | 1P | 11P | 3P | 9P | 5P | 7P |
 
-Read it like this:
+CM-A teaches the basic attack/parry relationship across the six beginner lines.
 
-| Step | Lumen A | Lumen B |
-|---:|---|---|
-| 1 | Attack target `1` | Parry target `1P` |
-| 2 | Attack target `11` | Parry target `11P` |
-| 3 | Attack target `3` | Parry target `3P` |
-| 4 | Attack target `9` | Parry target `9P` |
-| 5 | Attack target `5` | Parry target `5P` |
-| 6 | Attack target `7` | Parry target `7P` |
+For the full teaching page, see [CM-A](../core/cm-a.md).
 
-CM-A is one official example of choreography written using the LUMINA Standard.
+## More than attack notation
 
-Other schools may create entirely different choreography libraries while still using the same notation system.
+LUMINA can document more than attack targets.
 
-## What notation does not show by itself
+As choreography becomes more advanced, notation can include defensive movement, body movement, turns, spins, jumps, locks, holds, flourishes, transitions, and other performance actions.
 
-Notation is powerful, but it is not the whole choreography.
+Beginner students do not need all of that at first.
 
-A table may not fully show:
+Learn the six-line attack/parry foundation first. Then use the [Notation Legend](legend.md) as a reference when choreography needs more detail.
+
+## What notation does not replace
+
+Notation is powerful, but it does not replace live teaching.
+
+A notation table may not fully show:
 
 - speed
-- acting intention
 - distance
+- acting intention
 - emotional tone
 - exact footwork
-- performance quality
+- safety adjustments
 - camera angle or staging
-- safety adjustments for a specific pair
 
-That means notation should be paired with instruction, video, demonstration, or rehearsal notes when needed.
+Use notation with instruction, rehearsal, video, or coaching when needed.
 
-## Standard notation voice
+## Standard writing habits
 
-Official LUMINA notation should be written clearly and consistently.
+Official LUMINA examples should stay clear and consistent.
 
 Use:
 
@@ -187,16 +136,20 @@ Use:
 - tables for paired choreography
 - short notes below the table when explanation is needed
 
-Avoid mixing old terminology unless discussing historical material.
+Clear notation is more important than clever notation.
 
-## Next pages
+## Recommended learning path
 
-Continue in this order:
+If you are new, continue in this order:
 
-1. [Targets](targets.md)
-2. [Attacks](attacks.md)
-3. [Parries](parries.md)
-4. [Notation Legend](legend.md)
-5. [Examples](examples.md)
+1. [Start Here](../start-here.md)
+2. [Targets](targets.md)
+3. [Attacks](attacks.md)
+4. [Parries](parries.md)
+5. [CM-A](../core/cm-a.md)
 
-If you are brand new, start with [Start Here](../start-here.md) before going deeper into notation.
+If you already understand the beginner path, use these references:
+
+- [Notation Legend](legend.md)
+- [Notation Examples](examples.md)
+- [Standard vs. Notation System](../standard-vs-notation-system.md)
