@@ -5,7 +5,7 @@ hide:
 ---
 
 <div class="lumina-hero" markdown>
-<p class="lumina-hero__eyebrow">Born from SaberCraft • Built for every school</p>
+<p class="lumina-hero__eyebrow">Built for every school</p>
 
 # LUMINA Standard
 
