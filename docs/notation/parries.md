@@ -2,7 +2,7 @@
 
 A parry is a choreographed defensive response to an attack line.
 
-In LUMINA Notation, a parry is written as the target number plus the letter `P`.
+In SaberCraft Notation, a parry is written as the target number plus the letter `P`.
 
 !!! note "Plain-English version"
     If an attack is written as `1`, the matching parry is written as `1P`.
@@ -28,9 +28,9 @@ For the full twelve-line parry reference, use the [Notation Legend](legend.md).
 
 ## Parry versus block
 
-In casual teaching, people may say “block.”
+In casual teaching, people may say "block."
 
-In official LUMINA notation, use **parry** for the written `P` response.
+In official SaberCraft Standard notation, use **parry** for the written `P` response.
 
 | Term | Use |
 |---|---|
@@ -54,30 +54,30 @@ Beginner notation uses matching attack/parry pairs.
 
 The attack creates the line. The parry answers that line.
 
-## Parries in a two-Lumen table
+## Parries in a two-Saberist table
 
-In a LUMINA table, the parry appears in the step column for the Lumen performing the defensive response.
+In a SaberCraft Standard table, the parry appears in the step column for the Saberist performing the defensive response.
 
 | Player | Step 1 | Step 2 | Step 3 |
 |---|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 |
-| Lumen B | 1P | 11P | 3P |
+| Saberist A | 1 | 11 | 3 |
+| Saberist B | 1P | 11P | 3P |
 
 Read this vertically:
 
-- Step 1: Lumen A attacks `1`; Lumen B parries `1P`.
-- Step 2: Lumen A attacks `11`; Lumen B parries `11P`.
-- Step 3: Lumen A attacks `3`; Lumen B parries `3P`.
+- Step 1: Saberist A attacks `1`; Saberist B parries `1P`.
+- Step 2: Saberist A attacks `11`; Saberist B parries `11P`.
+- Step 3: Saberist A attacks `3`; Saberist B parries `3P`.
 
 ## Control standard
 
-A LUMINA parry should be:
+A SaberCraft Standard parry should be:
 
 - ready
 - controlled
 - readable
 - repeatable
-- safe for both Lumens
+- safe for both Saberists
 - matched to the intended attack line
 
 The purpose of the parry is not to win a fight. The purpose is to complete the shared choreographic phrase safely and clearly.
@@ -108,7 +108,7 @@ A good beginner parry should answer three questions clearly:
 
 1. Which attack line is being received?
 2. Does the parry match the written notation?
-3. Can both Lumens repeat the exchange safely?
+3. Can both Saberists repeat the exchange safely?
 
 If the answer is no, slow down and rebuild the step.
 
