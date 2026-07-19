@@ -1,26 +1,28 @@
 # Start Here
 
-Welcome to LUMINA.
+Welcome to the SaberCraft Standard.
 
 This page is the shortest safe path into the system. You do not need to understand the entire standard before you begin. You only need a partner, a safe training space, and enough notation to practice the first core movement: **CM-A**.
 
-By the end of this page, two beginners should understand how to read a basic LUMINA table and perform a simple six-step exchange.
+By the end of this page, two beginners should understand how to read a basic SaberCraft Standard table and perform a simple six-step exchange.
 
-!!! note "What LUMINA is"
-    LUMINA is a lightsaber choreography standard. It is used to record, teach, share, and safely perform choreographed saber combat.
+!!! note "What the SaberCraft Standard is"
+    The SaberCraft Standard is a lightsaber choreography standard. It is used to record, teach, share, and safely perform choreographed saber combat.
 
-!!! warning "What LUMINA is not"
-    LUMINA is not full-contact sparring, dueling, fencing, or combat training for real weapons. It is controlled partner choreography.
+!!! warning "What the SaberCraft Standard is not"
+    The SaberCraft Standard is not full-contact sparring, dueling, fencing, or combat training for real weapons. It is controlled partner choreography.
 
 ## 1. Safety baseline
 
 Before anything else, agree on safety.
 
-A LUMINA exchange should be practiced with control. The goal is not to hit your partner. The goal is to create a clean, readable, repeatable movement pattern together.
+A SaberCraft Standard exchange should be practiced with control. The goal is not to hit your partner. The goal is to create a clean, readable, repeatable movement pattern together.
 
 Minimum practice rules:
 
 - Use appropriate training sabers or safe props.
+- Check your distance with your partner before starting any sequence.
+- Make eye contact with your partner as the signal that you're both ready to begin.
 - Move slowly when learning.
 - Stop before contact.
 - Do not strike the body.
@@ -32,30 +34,30 @@ If the movement is not safe, it is not correct.
 
 ## 2. The basic roles
 
-A person practicing LUMINA is called a **Lumen**.
+A person who practices the SaberCraft Standard is called a **Saberist**.
 
 Most beginner examples use two partners:
 
 | Role | Meaning |
 |---|---|
-| **Lumen A** | The initiating partner in the written example |
-| **Lumen B** | The responding partner in the written example |
+| **Saberist A** | The initiating partner in the written example |
+| **Saberist B** | The responding partner in the written example |
 
 These roles are labels for reading the notation. They are not ranks, teams, or permanent identities.
 
-## 3. How a LUMINA table works
+## 3. How a SaberCraft Standard table works
 
-A LUMINA sequence is usually written as a two-row table.
+A SaberCraft Standard sequence is usually written as a two-row table.
 
 Each column is one moment in the choreography.
 
 | Player | Step 1 | Step 2 | Step 3 |
 |---|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 |
-| Lumen B | 1P | 11P | 3P |
+| Saberist A | 1 | 11 | 3 |
+| Saberist B | 1P | 11P | 3P |
 
-The top row shows what Lumen A does.  
-The bottom row shows what Lumen B does.
+The top row shows what Saberist A does.  
+The bottom row shows what Saberist B does.
 
 In this example:
 
@@ -63,7 +65,7 @@ In this example:
 - `1P` means a parry against target 1.
 - The letter `P` means **parry**.
 
-So if Lumen A performs `1`, Lumen B responds with `1P`.
+So if Saberist A performs `1`, Saberist B responds with `1P`.
 
 ## 4. The first thing to learn: attack and parry
 
@@ -86,18 +88,18 @@ Do not worry about advanced notation yet. Learn the basic call and response firs
 
 ## 5. Your first core movement: CM-A
 
-**CM-A** is the first core movement in LUMINA.
+**CM-A** is the first core movement in the SaberCraft Standard.
 
 It teaches the basic relationship between target attacks and matching parries.
 
 | Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
 |---|---:|---:|---:|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 | 9 | 5 | 7 |
-| Lumen B | 1P | 11P | 3P | 9P | 5P | 7P |
+| Saberist A | 1 | 11 | 3 | 9 | 5 | 7 |
+| Saberist B | 1P | 11P | 3P | 9P | 5P | 7P |
 
 Read it one column at a time:
 
-| Step | Lumen A | Lumen B |
+| Step | Saberist A | Saberist B |
 |---:|---|---|
 | 1 | Attack `1` | Parry `1P` |
 | 2 | Attack `11` | Parry `11P` |
@@ -138,11 +140,11 @@ A clean CM-A should feel controlled, readable, and safe.
 
 ## 7. Switch roles
 
-After Lumen A attacks and Lumen B parries, switch roles.
+After Saberist A attacks and Saberist B parries, switch roles.
 
-Now Lumen B performs the attack row and Lumen A performs the parry row.
+Now Saberist B performs the attack row and Saberist A performs the parry row.
 
-This matters because LUMINA is a shared language. Both partners should learn both sides.
+This matters because the SaberCraft Standard is a shared language. Both partners should learn both sides.
 
 ## 8. What to read next
 
@@ -157,8 +159,8 @@ Do not rush into advanced rules yet. Learn the language first, then build comple
 
 ## Quick summary
 
-- A practitioner is called a **Lumen**.
-- LUMINA is choreographed, controlled partner movement.
+- A practitioner is called a **Saberist**.
+- The SaberCraft Standard is choreographed, controlled partner movement.
 - A number is an attack.
 - A number plus `P` is a parry.
 - CM-A is the first core movement.
