@@ -1,11 +1,11 @@
 # Targets
 
-Targets are the numbered lines used in LUMINA Notation to describe where an attack is directed.
+Targets are the numbered lines used in SaberCraft Notation to describe where an attack is directed.
 
-LUMINA uses a clock-face model. Imagine a clock placed in front of your partner. The number in the notation points to the intended line of movement.
+The SaberCraft Standard uses a clock-face model. Imagine a clock placed in front of your partner. The number in the notation points to the intended line of movement.
 
 !!! note "Beginner idea"
-    A target number does not mean “hit this body part.” It means “move toward this choreographed line.”
+    A target number does not mean "hit this body part." It means "move toward this choreographed line."
 
 ## The six beginner targets
 
@@ -44,13 +44,13 @@ A number followed by `P` is a parry against that target line.
 
 Targets are read from the perspective of the choreographed exchange, not as random screen directions.
 
-When learning, do not overthink camera angle, audience angle, or left/right naming. Start with the shared clock-face idea between the two Lumens.
+When learning, do not overthink camera angle, audience angle, or left/right naming. Start with the shared clock-face idea between the two Saberists.
 
 The important questions are:
 
 1. Which target line is being attacked?
 2. Which parry receives that line?
-3. Can both Lumens repeat the same movement safely?
+3. Can both Saberists repeat the same movement safely?
 
 ## Targets in CM-A
 
@@ -71,7 +71,7 @@ In beginner practice:
 - the attack should be controlled
 - the defender should be ready
 - the saber should stop before contact
-- both Lumens should understand the line before adding speed
+- both Saberists should understand the line before adding speed
 
 If a target line causes confusion or unsafe distance, slow down and reset.
 
