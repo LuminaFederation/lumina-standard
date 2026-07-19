@@ -1,11 +1,11 @@
-# LUMINA Notation
+# SaberCraft Notation
 
-LUMINA Notation is the written movement language of the LUMINA Standard.
+SaberCraft Notation is the written movement language of the SaberCraft Standard.
 
 It helps students, instructors, clubs, schools, and performance groups write choreographed saber movement clearly enough to teach, rehearse, review, and preserve.
 
 !!! note "Plain-English version"
-    LUMINA Notation is a choreography map. It tells each Lumen what to do at each step of a sequence.
+    SaberCraft Notation is a choreography map. It tells each Saberist what to do at each step of a sequence.
 
 ## What to learn first
 
@@ -16,10 +16,10 @@ Start with the beginner core:
 1. six beginner target lines
 2. basic attacks
 3. matching parries
-4. the two-Lumen table format
+4. the two-Saberist table format
 5. CM-A, the first core movement
 
-That is enough to read and practice your first LUMINA sequence.
+That is enough to read and practice your first SaberCraft Standard sequence.
 
 The full notation reference is available later in the [Notation Legend](legend.md).
 
@@ -36,13 +36,13 @@ The beginner path uses six target lines:
 | `5` | Low line |
 | `7` | Opposite low line |
 
-These six lines are used in CM-A and give new Lumens a simple starting vocabulary.
+These six lines are used in CM-A and give new Saberists a simple starting vocabulary.
 
 For more detail, see [Targets](targets.md).
 
 ## Attacks and parries
 
-The simplest LUMINA notation uses numbers and the letter `P`.
+The simplest SaberCraft Standard notation uses numbers and the letter `P`.
 
 | Symbol type | Meaning |
 |---|---|
@@ -66,22 +66,22 @@ This creates the first call-and-response pattern:
 
 For more detail, see [Attacks](attacks.md) and [Parries](parries.md).
 
-## The two-Lumen table
+## The two-Saberist table
 
-Most beginner LUMINA sequences are written as a two-row table.
+Most beginner SaberCraft Standard sequences are written as a two-row table.
 
-One row belongs to each Lumen. Each column is one step in the choreography.
+One row belongs to each Saberist. Each column is one step in the choreography.
 
 | Player | Step 1 | Step 2 | Step 3 |
 |---|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 |
-| Lumen B | 1P | 11P | 3P |
+| Saberist A | 1 | 11 | 3 |
+| Saberist B | 1P | 11P | 3P |
 
 Read the table vertically, one column at a time.
 
-- Step 1: Lumen A attacks `1`; Lumen B parries `1P`.
-- Step 2: Lumen A attacks `11`; Lumen B parries `11P`.
-- Step 3: Lumen A attacks `3`; Lumen B parries `3P`.
+- Step 1: Saberist A attacks `1`; Saberist B parries `1P`.
+- Step 2: Saberist A attacks `11`; Saberist B parries `11P`.
+- Step 3: Saberist A attacks `3`; Saberist B parries `3P`.
 
 The table keeps both performers connected to the same timing.
 
@@ -91,8 +91,8 @@ CM-A is the first official core movement sequence.
 
 | Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
 |---|---:|---:|---:|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 | 9 | 5 | 7 |
-| Lumen B | 1P | 11P | 3P | 9P | 5P | 7P |
+| Saberist A | 1 | 11 | 3 | 9 | 5 | 7 |
+| Saberist B | 1P | 11P | 3P | 9P | 5P | 7P |
 
 CM-A teaches the basic attack/parry relationship across the six beginner lines.
 
@@ -100,7 +100,7 @@ For the full teaching page, see [CM-A](../core/cm-a.md).
 
 ## More than attack notation
 
-LUMINA can document more than attack targets.
+The SaberCraft Standard can document more than attack targets.
 
 As choreography becomes more advanced, notation can include defensive movement, body movement, turns, spins, jumps, locks, holds, flourishes, transitions, and other performance actions.
 
@@ -122,34 +122,4 @@ A notation table may not fully show:
 - safety adjustments
 - camera angle or staging
 
-Use notation with instruction, rehearsal, video, or coaching when needed.
-
-## Standard writing habits
-
-Official LUMINA examples should stay clear and consistent.
-
-Use:
-
-- **Lumen A** and **Lumen B** for two-person examples
-- numbered columns for steps
-- `P` for parry
-- tables for paired choreography
-- short notes below the table when explanation is needed
-
-Clear notation is more important than clever notation.
-
-## Recommended learning path
-
-If you are new, continue in this order:
-
-1. [Start Here](../start-here.md)
-2. [Targets](targets.md)
-3. [Attacks](attacks.md)
-4. [Parries](parries.md)
-5. [CM-A](../core/cm-a.md)
-
-If you already understand the beginner path, use these references:
-
-- [Notation Legend](legend.md)
-- [Notation Examples](examples.md)
-- [Standard vs. Notation System](../standard-vs-notation-system.md)
+Use notation with instruction, rehearsal, video, or coaching when
