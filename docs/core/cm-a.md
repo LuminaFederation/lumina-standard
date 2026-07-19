@@ -1,12 +1,12 @@
 # CM-A
 
-CM-A is the first official core movement in the LUMINA Standard.
+CM-A is the first official core movement in the SaberCraft Standard.
 
-It teaches the most basic relationship in LUMINA Notation:
+It teaches the most basic relationship in SaberCraft Notation:
 
 > attack line → matching parry
 
-CM-A should be the first paired sequence taught to new Lumens.
+CM-A should be the first paired sequence taught to new Saberists.
 
 ## Purpose
 
@@ -16,31 +16,31 @@ CM-A is designed to teach:
 - the meaning of `P` as parry
 - the two-row notation format
 - safe attack/parry timing
-- role awareness between Lumen A and Lumen B
+- role awareness between Saberist A and Saberist B
 - clean repetition before speed
 
 CM-A is not a performance sequence by itself. It is a foundation drill.
 
 ## Prerequisites
 
-Before practicing CM-A, both Lumens should understand:
+Before practicing CM-A, both Saberists should understand:
 
 - [Targets](../notation/targets.md)
 - [Attacks](../notation/attacks.md)
 - [Parries](../notation/parries.md)
 
-If either Lumen does not understand those basics, review them before practicing.
+If either Saberist does not understand those basics, review them before practicing.
 
 ## Notation
 
 | Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
 |---|---:|---:|---:|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 | 9 | 5 | 7 |
-| Lumen B | 1P | 11P | 3P | 9P | 5P | 7P |
+| Saberist A | 1 | 11 | 3 | 9 | 5 | 7 |
+| Saberist B | 1P | 11P | 3P | 9P | 5P | 7P |
 
 ## Step-by-step reading
 
-| Step | Lumen A | Lumen B |
+| Step | Saberist A | Saberist B |
 |---:|---|---|
 | 1 | Attack target `1` | Parry `1P` |
 | 2 | Attack target `11` | Parry `11P` |
@@ -49,7 +49,7 @@ If either Lumen does not understand those basics, review them before practicing.
 | 5 | Attack target `5` | Parry `5P` |
 | 6 | Attack target `7` | Parry `7P` |
 
-Read each column vertically. Lumen A performs the attack listed in the top row. Lumen B performs the matching parry listed in the bottom row.
+Read each column vertically. Saberist A performs the attack listed in the top row. Saberist B performs the matching parry listed in the bottom row.
 
 ## Training method
 
@@ -61,7 +61,7 @@ Move one step at a time.
 
 After each step, pause and confirm:
 
-- both Lumens know the target line
+- both Saberists know the target line
 - the parry matches the attack
 - distance is safe
 - the movement can be repeated
@@ -72,17 +72,17 @@ Do not rush this phase. This is where the pattern becomes clear.
 
 Perform all six steps without stopping.
 
-Keep the movement slow enough that both Lumens can read every line.
+Keep the movement slow enough that both Saberists can read every line.
 
-If either Lumen loses the sequence, stop and restart from Step 1.
+If either Saberist loses the sequence, stop and restart from Step 1.
 
 ### Phase 3: Role switch
 
 Switch roles.
 
-Now Lumen B performs the attack row and Lumen A performs the parry row.
+Now Saberist B performs the attack row and Saberist A performs the parry row.
 
-Both Lumens should learn both sides of CM-A.
+Both Saberists should learn both sides of CM-A.
 
 ## Completion standard
 
@@ -91,7 +91,7 @@ CM-A is complete when:
 - all six steps are performed in order
 - each attack follows the written target line
 - each parry matches the written attack
-- both Lumens maintain safe distance and control
+- both Saberists maintain safe distance and control
 - the sequence can be repeated without verbal correction
 
 A fast CM-A is not automatically a good CM-A.
@@ -106,13 +106,13 @@ A good CM-A is clear, controlled, and repeatable.
 | Swinging too hard | Reduce speed and focus on line clarity |
 | Parrying the wrong target | Match the number before adding speed |
 | Treating the drill like sparring | Keep it choreographed and repeatable |
-| Staying in only one role | Switch roles so both Lumens learn both sides |
+| Staying in only one role | Switch roles so both Saberists learn both sides |
 
 ## Teaching note
 
 CM-A should be taught as a language drill, not as a fight.
 
-The teacher’s job is to help both Lumens understand the notation, recognize the target lines, and build safe timing together.
+The teacher’s job is to help both Saberists understand the notation, recognize the target lines, and build safe timing together.
 
 Once CM-A is clean, it can become the foundation for longer combinations, telegraphed calls, and more advanced movement sequences.
 
