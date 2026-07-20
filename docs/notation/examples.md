@@ -12,6 +12,5 @@
 Each column is one moment in the choreography.
 
 - Step 1: A attacks `1`; B performs `1P`
-- - Step 2: A attacks `11`; B performs `11P`
-  - - Step 3: A attacks `3`; B performs `3P`
-    - 
+- Step 2: A attacks `11`; B performs `11P`
+- Step 3: A attacks `3`; B performs `3P`
