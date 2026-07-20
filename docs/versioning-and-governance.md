@@ -2,7 +2,7 @@
 
 ## Why governance matters
 
-LUMINA is intended to function as a long-term choreography notation standard.
+SaberCraft is intended to function as a long-term choreography notation standard.
 
 To remain useful across schools, instructors, communities, and future releases, the standard needs:
 
@@ -12,18 +12,18 @@ To remain useful across schools, instructors, communities, and future releases, 
 - version tracking
 - clear distinction between official and experimental material
 
-This page defines the current governance model for the LUMINA Standard.
+This page defines the current governance model for the SaberCraft Standard.
 
 ## Current standard version
 
 | Version | Status | Notes |
 |---|---|---|
-| v1.0 | Historical foundation | Original assembled LUMINA guide and system draft |
-| v2.0 | In active rewrite | Public standards-focused rewrite hosted at lumina.sabercraft.org |
+| v1.0 | Historical foundation | Original assembled SaberCraft guide and system draft |
+| v2.0 | In active rewrite | Public standards-focused rewrite hosted at standard.sabercraft.org |
 
 ## Governance philosophy
 
-LUMINA is designed to evolve carefully.
+SaberCraft is designed to evolve carefully.
 
 The goal is to allow:
 
@@ -42,11 +42,11 @@ Whenever possible:
 
 ## Stewardship
 
-The LUMINA Standard is currently:
+The SaberCraft Standard is currently:
 
 - developed by the SaberCraft community
 - maintained by Lumina Federation LLC
-- published publicly at lumina.sabercraft.org
+- published publicly at standard.sabercraft.org
 
 SaberCraft serves as the founding school and original implementation community of the standard.
 
@@ -56,9 +56,9 @@ Not all choreography or notation material carries the same authority level.
 
 | Category | Meaning |
 |---|---|
-| Official | Approved baseline LUMINA standard material |
+| Official | Approved baseline SaberCraft standard material |
 | Extended | Official expansions beyond the beginner baseline |
-| Community | Independent or contributed material written using LUMINA |
+| Community | Independent or contributed material written using SaberCraft |
 | Experimental | Draft concepts, test notation, or unreviewed systems |
 
 This structure allows schools and instructors to innovate without immediately changing the official baseline.
@@ -86,7 +86,7 @@ Examples include:
 
 ## Compatibility goal
 
-One long-term goal of LUMINA is archival durability.
+One long-term goal of SaberCraft is archival durability.
 
 A choreography written years earlier should remain understandable to future instructors whenever reasonably possible.
 
@@ -129,4 +129,4 @@ The current focus is stability, documentation quality, and foundational clarity.
 
 ## Key principle
 
-LUMINA should evolve slowly enough to remain stable, but openly enough to remain useful.
+SaberCraft should evolve slowly enough to remain stable, but openly enough to remain useful.

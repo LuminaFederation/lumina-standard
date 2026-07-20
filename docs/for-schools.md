@@ -2,7 +2,7 @@
 
 ## Keep your choreography. Share the language.
 
-LUMINA is a shared notation standard for choreographed saber movement.
+SaberCraft is a shared notation standard for choreographed saber movement.
 
 It was created so schools, performance groups, clubs, instructors, and independent choreographers can document and exchange choreography using a common movement language — without giving up their own identity, curriculum, or creative style.
 
@@ -12,7 +12,7 @@ You do not need to adopt SaberCraft’s entire Core Movement library.
 
 You do not need to teach the same choreography as anyone else.
 
-Instead, LUMINA gives your group a way to:
+Instead, SaberCraft gives your group a way to:
 
 - write choreography clearly
 - preserve movement over time
@@ -28,13 +28,13 @@ A notation system helps people write movement down.
 
 A standard gives people a public reference they can use, question, review, and build from over time.
 
-That distinction matters for schools. If a movement language is hard to access, unavailable, or dependent on one person’s memory, different groups eventually create their own house rules. LUMINA is designed to avoid that by making the reference public, maintained, and reviewable.
+That distinction matters for schools. If a movement language is hard to access, unavailable, or dependent on one person’s memory, different groups eventually create their own house rules. SaberCraft is designed to avoid that by making the reference public, maintained, and reviewable.
 
 Read more: [Standard vs. Notation System](standard-vs-notation-system.md)
 
-## What LUMINA actually standardizes
+## What SaberCraft actually standardizes
 
-LUMINA standardizes the language of choreography.
+SaberCraft standardizes the language of choreography.
 
 This includes:
 
@@ -53,7 +53,7 @@ The standard does **not** require every group to use the same choreography libra
 
 ## Your choreography library remains yours
 
-SaberCraft uses LUMINA to teach its own choreography library, including CM-A through CM-X.
+SaberCraft uses the SaberCraft Standard to teach its own choreography library, including CM-A through CM-X.
 
 Another school might create:
 
@@ -79,7 +79,7 @@ Most choreography communities rely heavily on:
 
 That works — until choreography is forgotten, altered, lost, or difficult to reproduce consistently.
 
-LUMINA exists to make choreography portable.
+SaberCraft exists to make choreography portable.
 
 A written sequence can be:
 
@@ -97,11 +97,11 @@ The goal is to make live teaching easier to preserve, repeat, and communicate.
 
 ## A shared language, not a franchise
 
-LUMINA is intentionally designed to be broader than a single school.
+The SaberCraft Standard is intentionally designed to be broader than a single school.
 
 SaberCraft is the founding school and original development community of the system, but the notation standard is meant to support a wider choreography ecosystem.
 
-Schools using LUMINA should still feel like themselves.
+Schools using the SaberCraft Standard should still feel like themselves.
 
 Your:
 
@@ -119,16 +119,16 @@ can remain entirely your own.
 
 | Group | Their choreography library | Shared notation language |
 |---|---|---|
-| SaberCraft | CM-A through CM-X | LUMINA |
-| Academy A | AA-1 through AA-20 | LUMINA |
-| Temple Group | Temple Drills | LUMINA |
-| Stage Team | Performance Sets | LUMINA |
+| SaberCraft | CM-A through CM-X | SaberCraft Standard |
+| Academy A | AA-1 through AA-20 | SaberCraft Standard |
+| Temple Group | Temple Drills | SaberCraft Standard |
+| Stage Team | Performance Sets | SaberCraft Standard |
 
 In this model, the notation language is shared while the choreography libraries remain independent.
 
 ## The long-term vision
 
-LUMINA is being developed as:
+SaberCraft is being developed as:
 
 - a choreography notation standard
 - a preservation framework

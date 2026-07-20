@@ -54,9 +54,9 @@ That can be useful for drills, but staged combat needs more.
 
 A fight scene is not just saber direction. It is body movement, distance, rhythm, safety, reaction, and performance.
 
-LUMINA is designed to capture the full choreographic exchange.
+SaberCraft is designed to capture the full choreographic exchange.
 
-A LUMINA sequence can include:
+A SaberCraft sequence can include:
 
 - attacks
 - parries
@@ -74,23 +74,23 @@ A LUMINA sequence can include:
 - transitions
 - timing between performers
 
-**Attack notation tells you where the saber goes. LUMINA is built to show what the whole choreography does.**
+**Attack notation tells you where the saber goes. SaberCraft is built to show what the whole choreography does.**
 
-## Why LUMINA is different
+## Why SaberCraft is different
 
-LUMINA is built from more than ten years of real practice.
+SaberCraft is built from more than ten years of real practice.
 
-The notation material has been available online for over a decade, and the current LUMINA Standard is being organized so it can remain publicly available as a long-term reference.
+The notation material has been available online for over a decade, and the current SaberCraft Standard is being organized so it can remain publicly available as a long-term reference.
 
 It was developed through SaberCraft, a school that has taught and refined saber choreography for more than a decade with a consistent student base.
 
 That matters.
 
-LUMINA did not come from theory alone. It came from real classes, real students, real choreography, and years of figuring out what people can actually learn, teach, remember, and perform safely.
+SaberCraft did not come from theory alone. It came from real classes, real students, real choreography, and years of figuring out what people can actually learn, teach, remember, and perform safely.
 
 ## Built for more than one fandom
 
-LUMINA may be inspired by saber culture, but it is not limited to one franchise.
+SaberCraft may be inspired by saber culture, but it is not limited to one franchise.
 
 It connects to:
 
@@ -103,7 +103,7 @@ It connects to:
 - movement documentation
 - teaching systems
 
-At its core, LUMINA is for people who care about process.
+At its core, SaberCraft is for people who care about process.
 
 It is for instructors, performers, students, clubs, and schools that want choreography to be clear, repeatable, and teachable.
 
@@ -113,7 +113,7 @@ A standard should not disappear.
 
 It should not depend on unavailable videos, private notes, or one person’s memory.
 
-LUMINA is designed to be available online, with documentation, examples, FAQs, updates, and public ways to ask questions.
+SaberCraft is designed to be available online, with documentation, examples, FAQs, updates, and public ways to ask questions.
 
 That means students, teachers, and schools can use the same reference instead of guessing.
 
@@ -121,7 +121,7 @@ That means students, teachers, and schools can use the same reference instead of
 
 A standard also needs a way to review choreography.
 
-A future LUMINA review council can help evaluate submitted choreography by asking:
+A future SaberCraft review council can help evaluate submitted choreography by asking:
 
 - Is the notation readable?
 - Are the roles clear?
@@ -130,7 +130,7 @@ A future LUMINA review council can help evaluate submitted choreography by askin
 - Does it follow the standard?
 - Should it be official, extended, community, or experimental material?
 
-This helps LUMINA stay consistent as more people use it.
+This helps SaberCraft stay consistent as more people use it.
 
 ## Key idea
 
@@ -138,6 +138,6 @@ A notation system helps you **write choreography**.
 
 A standard helps a community **agree on what that writing means**.
 
-LUMINA includes notation, but the goal is bigger:
+SaberCraft includes notation, but the goal is bigger:
 
 **a public, maintained, reviewable standard for choreographed saber combat.**

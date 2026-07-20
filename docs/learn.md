@@ -1,6 +1,6 @@
 # Learn with SaberCraft
 
-SaberCraft is the founding school and original community where LUMINA developed.
+SaberCraft is the founding school and original community where the SaberCraft Standard developed.
 
 For classes, events, community training, and SaberCraft-specific curriculum, visit:
 
@@ -8,6 +8,6 @@ For classes, events, community training, and SaberCraft-specific curriculum, vis
 
 ## Relationship
 
-- LUMINA is the standard.
+- SaberCraft is the standard.
 - SaberCraft is the founding school/community.
 - Lumina Federation LLC maintains the standard.

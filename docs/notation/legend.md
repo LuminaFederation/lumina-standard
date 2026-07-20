@@ -1,6 +1,6 @@
 # Notation Legend
 
-This page is the reference table for LUMINA notation symbols.
+This page is the reference table for SaberCraft notation symbols.
 
 For first-time readers, start with the six beginner lines in [Targets](targets.md), [Attacks](attacks.md), and [Parries](parries.md). The tables below include the wider twelve-line reference for notation lookup.
 
@@ -9,7 +9,7 @@ For first-time readers, start with the six beginner lines in [Targets](targets.m
 
 ## Beginner symbols
 
-These are the first symbols most Lumens should learn.
+These are the first symbols most Saberists should learn.
 
 | Symbol | Meaning | Status |
 |---|---|---|
@@ -66,7 +66,7 @@ A number followed by `P` is a parry against that target line.
 
 ## Expanded movement symbols
 
-These symbols are part of the broader LUMINA notation vocabulary. They are reference terms, not beginner requirements.
+These symbols are part of the broader SaberCraft notation vocabulary. They are reference terms, not beginner requirements.
 
 | Symbol | Meaning | Status |
 |---|---|---|

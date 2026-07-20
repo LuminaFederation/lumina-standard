@@ -28,7 +28,7 @@ Timing drifts.
 
 And eventually, choreography that once existed clearly becomes fragmented or lost.
 
-LUMINA was created to solve that problem.
+SaberCraft was created to solve that problem.
 
 ## Choreography deserves a written language
 
@@ -91,9 +91,9 @@ Notation can clarify attack lines, responses, timing, and structure.
 
 Notation creates historical preservation.
 
-## LUMINA is designed for portability
+## SaberCraft is designed for portability
 
-LUMINA allows choreography to move between:
+SaberCraft allows choreography to move between:
 
 - schools
 - instructors
@@ -104,7 +104,7 @@ LUMINA allows choreography to move between:
 - archives
 - future generations
 
-A choreography written in LUMINA notation can be:
+A choreography written in SaberCraft notation can be:
 
 - printed
 - translated into teaching material
@@ -116,7 +116,7 @@ A choreography written in LUMINA notation can be:
 
 ## A shared language across schools
 
-One of the goals of LUMINA is interoperability.
+One of the goals of SaberCraft is interoperability.
 
 Different schools can keep their own:
 
@@ -146,7 +146,7 @@ Without shared notation:
 - videos require interpretation
 - reconstruction takes longer
 
-With LUMINA:
+With SaberCraft:
 
 - both schools can read the same notation grammar
 - choreography becomes easier to exchange
@@ -180,11 +180,11 @@ This is one of the reasons notation systems transformed:
 - software development
 - martial systems
 
-LUMINA applies that same philosophy to choreographed saber movement.
+SaberCraft applies that same philosophy to choreographed saber movement.
 
 ## The long-term vision
 
-LUMINA is not intended to replace creativity.
+SaberCraft is not intended to replace creativity.
 
 It exists to help creativity survive.
 

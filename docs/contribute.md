@@ -1,6 +1,6 @@
 # Contribute
 
-The LUMINA Standard is currently in foundation/rewrite mode.
+The SaberCraft Standard is currently in foundation/rewrite mode.
 
 Future contribution paths may include:
 
@@ -16,8 +16,8 @@ Future contribution paths may include:
 |---|---|
 | Proposed CM name/ID | Yes |
 | Category | Yes |
-| Lumen A sequence | Yes |
-| Lumen B sequence | Yes |
+| Saberist A sequence | Yes |
+| Saberist B sequence | Yes |
 | Telegraph | Optional |
 | Lesson/purpose | Yes |
 | Safety notes | Yes |

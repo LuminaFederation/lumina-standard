@@ -1,8 +1,8 @@
 # Example: Academy A Original Choreography
 
-## A fictional example of independent choreography written in LUMINA notation
+## A fictional example of independent choreography written in SaberCraft notation
 
-This page demonstrates how a school or performance group can use the LUMINA Standard while maintaining its own choreography library, curriculum, and identity.
+This page demonstrates how a school or performance group can use the SaberCraft Standard while maintaining its own choreography library, curriculum, and identity.
 
 The choreography below is fictional.
 
@@ -10,7 +10,7 @@ The choreography below is fictional.
 
 ## The important distinction
 
-LUMINA is the notation language.
+SaberCraft is the notation language.
 
 The choreography itself belongs to the school using it.
 
@@ -33,14 +33,14 @@ Academy A uses its own naming structure:
 
 instead of SaberCraft’s CM naming structure.
 
-The notation system remains compatible because both schools use LUMINA.
+The notation system remains compatible because both schools use SaberCraft.
 
 ## Choreography table
 
 | Player | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 | Step 7 | Step 8 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Lumen A | 1 | 11 | 3 | 3P | 9 | 5 | 7P | 1 |
-| Lumen B | 1P | 11P | 3P | 9 | 9P | 5P | 7 | 1P |
+| Saberist A | 1 | 11 | 3 | 3P | 9 | 5 | 7P | 1 |
+| Saberist B | 1P | 11P | 3P | 9 | 9P | 5P | 7 | 1P |
 
 ## Reading the exchange
 
@@ -80,7 +80,7 @@ In a larger choreography ecosystem, schools might eventually publish:
 
 Each library remains unique.
 
-LUMINA provides the common structure that makes the choreography readable across communities.
+SaberCraft provides the common structure that makes the choreography readable across communities.
 
 ## Key takeaway
 
