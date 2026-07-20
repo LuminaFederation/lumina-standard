@@ -1,53 +1,62 @@
-# LUMINA Standard
+# SaberCraft Standard
 
-This repository contains the source files for the public LUMINA Standard website.
+This repository contains the source files for the public SaberCraft Standard website.
 
-**Public site:** https://lumina.sabercraft.org/  
-**Founding school/community:** https://sabercraft.org/
+**Public site:** <https://standard.sabercraft.org/>
+**Founding school/community:** <https://sabercraft.org/>
 
-## What is LUMINA?
+## What is the SaberCraft Standard?
 
-LUMINA is a lightsaber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.
+The SaberCraft Standard is a choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat. It defines a shared movement notation, a controlled vocabulary, a Core Movement (CM) library structure, and a beginner learning path that schools, clubs, and individual Saberists can adopt.
 
-It is developed and maintained by **Lumina Federation LLC** and originated through the **SaberCraft** community.
+It is maintained by **Lumina Federation LLC** and originated through the **SaberCraft** community.
 
 ## Repository purpose
 
-This repo is intended to hold:
+This repo holds:
 
-- official Markdown documentation
+- official Markdown documentation (`docs/`)
 - versioned standard content
 - notation references
 - movement library structure
 - downloadable release files
 - changelog and governance materials
 
+The site is built with [MkDocs](https://www.mkdocs.org/) and published via GitHub Pages.
+
 ## Local preview
 
 Install dependencies:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
 Run locally:
 
-```bash
+```
 mkdocs serve
 ```
 
 Build:
 
-```bash
+```
 mkdocs build
 ```
 
 ## Publishing
 
-This repo includes a GitHub Actions workflow that can publish the site to GitHub Pages.
+This repo includes a GitHub Actions workflow that publishes the site to GitHub Pages.
 
 Before publishing, confirm:
 
-- `repo_url` in `mkdocs.yml`
-- `repo_name` in `mkdocs.yml`
-- `docs/CNAME` points to `lumina.sabercraft.org`
+- `repo_url` and `repo_name` in `mkdocs.yml` reference `LuminaFederation/sabercraft-standard`
+- `docs/CNAME` contains `standard.sabercraft.org`
+
+## Contributing
+
+See [Contributing and Submissions](https://standard.sabercraft.org/contributing-and-submissions/) on the public site for how movements and notation proposals are reviewed, and `CLAUDE.md` for repository conventions.
+
+## License
+
+The SaberCraft Standard is published under the licensing terms described at [Licensing and Use Policy](https://standard.sabercraft.org/licensing/).
