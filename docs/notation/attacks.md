@@ -115,35 +115,11 @@ If the answer is no, the attack is not ready to speed up.
 
 ## Attack diagrams
 
-<figure markdown>
-![Attack 1](../assets/images/notation/attack-1.png)
-<figcaption>Attack 1</figcaption>
-</figure>
-
-<figure markdown>
-![Attack 11](../assets/images/notation/attack-11.png)
-<figcaption>Attack 11</figcaption>
-</figure>
-
-<figure markdown>
-![Attack 3](../assets/images/notation/attack-3.png)
-<figcaption>Attack 3</figcaption>
-</figure>
-
-<figure markdown>
-![Attack 9](../assets/images/notation/attack-9.png)
-<figcaption>Attack 9</figcaption>
-</figure>
-
-<figure markdown>
-![Attack 5](../assets/images/notation/attack-5.png)
-<figcaption>Attack 5</figcaption>
-</figure>
-
-<figure markdown>
-![Attack 7](../assets/images/notation/attack-7.png)
-<figcaption>Attack 7</figcaption>
-</figure>
+| | |
+|:---:|:---:|
+| ![Attack 1](../assets/images/notation/attack-1.png){ width="200" }<br>**Attack 1** | ![Attack 11](../assets/images/notation/attack-11.png){ width="200" }<br>**Attack 11** |
+| ![Attack 3](../assets/images/notation/attack-3.png){ width="200" }<br>**Attack 3** | ![Attack 9](../assets/images/notation/attack-9.png){ width="200" }<br>**Attack 9** |
+| ![Attack 5](../assets/images/notation/attack-5.png){ width="200" }<br>**Attack 5** | ![Attack 7](../assets/images/notation/attack-7.png){ width="200" }<br>**Attack 7** |
 
 ## Related pages
 
