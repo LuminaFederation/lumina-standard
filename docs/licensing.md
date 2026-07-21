@@ -92,7 +92,7 @@ Not acceptable without written permission:
 
 Use this footer on public SaberCraft Standard PDFs, worksheets, and reference sheets:
 
-> © 2026 Lumina Federation LLC. SaberCraft Standard public reference materials are licensed under Creative Commons Attribution-ShareAlike 4.0 International. SaberCraft Standard, SaberCraft Notation, SaberCraft, LUMINA, and related marks are trademarks of Lumina Federation LLC and may not be used to imply official endorsement, certification, or affiliation without written permission.
+> © 2026 Lumina Federation LLC. Licensed under CC BY-SA 4.0. SaberCraft Standard, SaberCraft Notation, SaberCraft, and LUMINA are trademarks of Lumina Federation LLC; use does not imply endorsement, certification, or affiliation.
 
 ## Why This Approach
 
