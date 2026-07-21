@@ -72,6 +72,17 @@ In this example:
 
 So if Saberist A performs `1`, Saberist B responds with `1P`.
 
+Here is what those same three steps look like as attack and parry lines:
+
+<div class="diagram-table" markdown>
+
+| | Target 1 | Target 11 | Target 3 |
+|---|:---:|:---:|:---:|
+| **Attack** | ![Attack 1](../assets/images/notation/attack-1.png){ width="100" } | ![Attack 11](../assets/images/notation/attack-11.png){ width="100" } | ![Attack 3](../assets/images/notation/attack-3.png){ width="100" } |
+| **Parry** | ![Parry 1](../assets/images/notation/parry-1.png){ width="100" } | ![Parry 11](../assets/images/notation/parry-11.png){ width="100" } | ![Parry 3](../assets/images/notation/parry-3.png){ width="100" } |
+
+</div>
+
 ## 4. The first thing to learn: attack and parry
 
 For your first practice session, focus on this simple rule:

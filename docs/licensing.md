@@ -29,6 +29,9 @@ Under this license, people may use, share, print, teach from, and adapt these ma
 
 ## What People May Do
 
+!!! warning "Adapting is not rebranding"
+    "Adapt" means adjusting terminology, examples, or formatting to fit local teaching — not printing SaberCraft Standard materials with the attribution and license notice stripped and your school's name put in their place. Adaptations must still credit the SaberCraft Standard and retain the license notice, per [What People Must Do](#what-people-must-do) below.
+
 People, schools, clubs, chapters, and instructors may:
 
 - use public SaberCraft Standard materials for education
@@ -50,7 +53,7 @@ Users of public SaberCraft Standard materials must:
 
 Suggested attribution:
 
-> Adapted from the SaberCraft Standard, developed and maintained by Lumina Federation LLC. SaberCraft is the founding school/community of the SaberCraft Standard.
+> Adapted from the SaberCraft Standard, developed and maintained by Lumina Federation LLC. SaberCraft.org is the founding school/community of the SaberCraft Standard.
 
 ## What Is Not Licensed Under Creative Commons
 
@@ -64,14 +67,10 @@ The following remain protected brand assets and are not freely licensed under Cr
 - LUMINA (LUMINA Games)
 - Lumina Federation
 - official logos
-- certification seals
-- instructor badges
-- official endorsement language
-- official curriculum titles where used as source identifiers
 
 ## Official Certification and Endorsement
 
-Schools may teach from open SaberCraft Standard materials, but they may not claim to be official SaberCraft Standard schools, official SaberCraft Standard instructors, certified SaberCraft Standard instructors, approved training centers, or authorized representatives unless granted written permission by Lumina Federation LLC.
+Schools may teach from open SaberCraft Standard materials, but they may not claim to be official SaberCraft Standard schools or authorized representatives unless granted written permission by Lumina Federation LLC.
 
 Acceptable language:
 
