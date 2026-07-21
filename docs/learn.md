@@ -9,5 +9,5 @@ For classes, events, community training, and SaberCraft-specific curriculum, vis
 ## Relationship
 
 - SaberCraft is the standard.
-- SaberCraft is the founding school/community.
+- SaberCraft.org is the founding school/community.
 - Lumina Federation LLC maintains the standard.
