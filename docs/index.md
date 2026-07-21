@@ -52,7 +52,7 @@ Schools and performance groups can adopt the notation standard without replacing
 
 ## Relationship to SaberCraft
 
-SaberCraft is the founding school and original community where the SaberCraft Standard was developed. SaberCraft remains the home for classes, community, events, and training culture.
+SaberCraft is the founding school and original community where the SaberCraft Standard was developed. SaberCraft remains committed to community classes, community events, and training culture.
 
 SaberCraft's CM library represents one implementation of the SaberCraft Standard, but the notation system is designed to support choreography from other schools and communities as well.
 
