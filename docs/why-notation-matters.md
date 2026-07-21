@@ -101,17 +101,13 @@ SaberCraft allows choreography to move between:
 - conventions
 - online communities
 - performance groups
-- archives
-- future generations
 
 A choreography written in SaberCraft notation can be:
 
 - printed
 - translated into teaching material
 - reviewed during rehearsal
-- rebuilt from documentation
 - shared digitally
-- stored in repositories
 - referenced years later
 
 ## A shared language across schools
